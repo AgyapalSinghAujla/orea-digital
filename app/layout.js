@@ -24,13 +24,13 @@ const prozaLibre = Proza_Libre({
 export const metadata = {
   title: {
     default: "Orea Digital | Marketing Agency",
-    template: "%s | Marketing Agency",
+    template: "%s | Orea Digital",
   },
   description: "Marketing Agency",
   openGraph: {
     title: "Orea Digital | Marketing Agency",
-    description: "Marketing Agency",
-    url: "https://next-learning-project-nine.vercel.app/",
+    description: "Orea Digital is a creative digital marketing agency that builds powerful brands through strategy, creativity, technology, and impactful digital experiences",
+    url: "https://orea-digital.vercel.app//",
     siteName: "GSAP Learning",
     images: [
       {
